@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Michael
+I'm a pasionate and emerging softare engineer with great intension to solve societal problems
+- 🌱 I’m currently learning HTML, CSS & JS
+- 👯 I’m looking to collaborate on web and app development
+- 💬 Ask me about HTML, CSS & JS
+- 📫 How to reach me: michaelchika58@outlook.com
 
 <!--
 **Generoustechnocrat/Generoustechnocrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
