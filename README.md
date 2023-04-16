@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/124439618/232295930-af59abe5-6f4c-4f73-a072-bd1929ee0b35.png)
-
 <h1 align="center">Hi 👋, I'm Okolo Michael</h1>
 <h3 align="center">I'm a pasionate and emerging softare engineer with great intension to solve societal problems</h3>
 
